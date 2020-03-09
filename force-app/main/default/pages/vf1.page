@@ -1,0 +1,4 @@
+<apex:page controller="c1">
+    {!hello}
+
+</apex:page>
